@@ -1,10 +1,10 @@
-# Available .TRADING One-Word Domains (5,622,084)
+# Available .TRADING One-Word Domains (4,634)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C633%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C084%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C634%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .trading one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 4,633-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,084 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,634 domains** on the canonical page below.
 
-**Public extract:** 4,633 rows · **Live catalog:** 5,622,084 domains
+**Public extract:** 4,633 rows · **Live catalog:** 4,634 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/trading`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| echo.trading    | available | $19.99    | —             | 68             | 58     | 4      | name.com          |
-| box.trading     | resell    | —         | —             | 68             | 78     | 3      | NameCheap, Inc.   |
-| outlook.trading | premium   | $250      | —             | 77             | 73     | 7      | name.com          |
 | sam.trading     | available | $19.99    | —             | 80             | 57     | 3      | name.com          |
+| box.trading     | resell    | —         | —             | 68             | 78     | 3      | NameCheap, Inc.   |
+| outlook.trading | premium   | $250      | —             | 77             | 72     | 7      | name.com          |
+| echo.trading    | available | $19.99    | —             | 68             | 57     | 4      | name.com          |
 | name.trading    | resell    | —         | —             | 82             | 76     | 4      | Porkbun LLC       |
 | omega.trading   | premium   | $500      | —             | 78             | 71     | 5      | name.com          |
 | ada.trading     | available | $19.99    | —             | 62             | 53     | 3      | name.com          |
@@ -82,7 +82,7 @@ print(df.head())
 | daniel.trading  | available | $19.99    | —             | 76             | 51     | 6      | name.com          |
 | pay.trading     | resell    | —         | —             | 84             | 60     | 3      | Porkbun LLC       |
 | think.trading   | premium   | $1,250    | —             | 82             | 64     | 5      | name.com          |
-| root.trading    | available | $19.99    | —             | 64             | 50     | 4      | name.com          |
+| bible.trading   | available | $19.99    | —             | 88             | 49     | 5      | name.com          |
 | search.trading  | resell    | —         | —             | 70             | 57     | 6      | Sav.com, LLC - 1  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,633-row public sample | 5,622,084 live domains                           |
+| 4,633-row public sample | 4,634 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
