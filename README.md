@@ -68,7 +68,7 @@ print(df.head())
 | Cindy.trading      | available | $27.98    | —             | 80             | 15     | 5      | namecheap   |
 | vegan.trading      | premium   | —         | —             | 82             | 42     | 5      | —           |
 | russia.trading     | premium   | —         | —             | 80             | 45     | 6      | —           |
-| carrie.trading     | available | $19.99    | —             | 82             | 11     | 6      | name.com    |
+| carrie.trading     | available | $19.99    | —             | 82             | 10     | 6      | name.com    |
 | whynot.trading     | available | $19.99    | —             | 74             | 39     | 7      | name.com    |
 | car.trading        | resell    | —         | —             | 84             | 46     | 3      | Porkbun LLC |
 | Books.trading      | premium   | $280      | $280          | 52             | 49     | 5      | namecheap   |
@@ -77,12 +77,12 @@ print(df.head())
 | robots.trading     | premium   | $1,250    | —             | 62             | 47     | 6      | name.com    |
 | Cats.trading       | available | $27.98    | —             | 59             | 33     | 4      | namecheap   |
 | brands.trading     | premium   | $250      | —             | 62             | 28     | 6      | name.com    |
+| hashtag.trading    | available | $19.99    | —             | 82             | 32     | 7      | name.com    |
 | toys.trading       | premium   | $500      | —             | 60             | 24     | 4      | name.com    |
-| teams.trading      | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
 | affiliates.trading | premium   | $3,125    | —             | 60             | 21     | 10     | name.com    |
+| teams.trading      | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
 | newage.trading     | available | $19.99    | —             | 56             | 32     | 7      | name.com    |
 | William.trading    | available | $27.98    | —             | 74             | 31     | 7      | namecheap   |
-| letsgo.trading     | available | $19.99    | —             | 57             | 31     | 7      | name.com    |
 | imagine.trading    | premium   | —         | —             | 82             | 41     | 7      | —           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
