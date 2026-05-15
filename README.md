@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .trading one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,837 domains · **Median ask:** $59.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/trading`  
 **Best for:** founders, investors, studios
 
@@ -81,8 +81,8 @@ print(df.head())
 | toys.trading       | premium   | $500      | —             | 60             | 24     | 4      | name.com    |
 | affiliates.trading | premium   | $3,125    | —             | 60             | 21     | 10     | name.com    |
 | teams.trading      | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
-| newage.trading     | available | $19.99    | —             | 56             | 32     | 7      | name.com    |
 | William.trading    | available | $27.98    | —             | 74             | 31     | 7      | namecheap   |
+| letsgo.trading     | available | $19.99    | —             | 57             | 31     | 7      | name.com    |
 | imagine.trading    | premium   | —         | —             | 82             | 41     | 7      | —           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
