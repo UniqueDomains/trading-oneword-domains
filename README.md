@@ -1,10 +1,10 @@
-# Available .TRADING One-Word Domains (9,837)
+# Available .TRADING One-Word Domains (9,840)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C837%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C840%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .trading one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,837 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,840 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,837 domains · **Median ask:** $59.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,840 domains · **Median ask:** $58.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/trading`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/trading`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TRADING one-word doma
 
 ### Files
 
-- `trading.csv` — public CSV extract (1,000 rows)
-- `trading.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `trading.csv`, public CSV extract (1,000 rows)
+- `trading.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Liam.trading       | available | $27.98    | —             | 81             | 32     | 4      | namecheap   |
-| Cindy.trading      | available | $27.98    | —             | 80             | 15     | 5      | namecheap   |
-| vegan.trading      | premium   | —         | —             | 82             | 42     | 5      | —           |
-| russia.trading     | premium   | —         | —             | 80             | 45     | 6      | —           |
-| carrie.trading     | available | $19.99    | —             | 82             | 10     | 6      | name.com    |
-| whynot.trading     | available | $19.99    | —             | 74             | 44     | 7      | name.com    |
-| car.trading        | resell    | —         | —             | 84             | 46     | 3      | Porkbun LLC |
-| Books.trading      | premium   | $280      | $280          | 52             | 49     | 5      | namecheap   |
-| stories.trading    | available | $19.99    | —             | 58             | 36     | 7      | name.com    |
-| bee.trading        | resell    | —         | —             | 70             | 43     | 3      | Dynadot Inc |
-| robots.trading     | premium   | $1,250    | —             | 62             | 47     | 6      | name.com    |
-| Cats.trading       | available | $27.98    | —             | 59             | 33     | 4      | namecheap   |
-| brands.trading     | premium   | $250      | —             | 62             | 28     | 6      | name.com    |
-| hashtag.trading    | available | $19.99    | —             | 82             | 32     | 7      | name.com    |
-| toys.trading       | premium   | $500      | —             | 60             | 24     | 4      | name.com    |
-| affiliates.trading | premium   | $3,125    | —             | 60             | 21     | 10     | name.com    |
-| teams.trading      | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
-| William.trading    | available | $27.98    | —             | 74             | 31     | 7      | namecheap   |
-| letsgo.trading     | available | $19.99    | —             | 57             | 31     | 7      | name.com    |
-| imagine.trading    | premium   | —         | —             | 82             | 41     | 7      | —           |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aid.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| bio.trading     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| eat.trading     | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| atp.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| inc.trading     | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.   |
+| gas.trading     | premium   | $3,125    | —             | high           | low    | 3      | name.com          |
+| awe.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| dark.trading    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc       |
+| lp.trading      | premium   | $1,250    | —             | medium         | low    | 3      | name.com          |
+| ben.trading     | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| token.trading   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.   |
+| tip.trading     | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
+| boo.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| techno.trading  | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.   |
+| asia.trading    | premium   | $1,250    | —             | high           | low    | 4      | name.com          |
+| bow.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| genesis.trading | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC - 20 |
+| bang.trading    | premium   | $250      | —             | high           | low    | 4      | name.com          |
+| bra.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| bare.trading    | premium   | $250      | —             | medium         | low    | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,837 live domains                         |
+| 1,000-row public sample | 9,840 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every name ends in .trading. The set is broad, with personal names, generic words, category terms, and potentially sensitive or trademark-loaded strings appearing side by side. Examples such as Liam.trading, Laura.trading, facts.trading, and girls.trading show how varied the naming styles are. When comparing these domains, focus first on whether the word becomes clearer or weaker when paired with .trading. Then check asking price against long-term renewal tolerance, and rule out names that could create trademark or reputation friction, such as obvious brand references.
+This selection covers 9,840 one-word .trading domain names spanning playful, descriptive, and abstract styles — from McMuffin.trading to Movies.trading. Median asking price sits near $59, putting most names within reach for direct purchase. Because .trading carries a clear commerce association, these domains suit trading-related brands, marketplaces, and finance-adjacent projects. When comparing names here, weigh length, memorability, and how closely the word ties to a trading or exchange concept before committing to a purchase.
 
-- All names in this set use the .trading extension
-- Median ask is 59.36 across 9,819 domains
-- Word quality varies from generic terms to personal names
-- Screen for trademark and reputation risk before buying
+- 9,840 one-word .trading domains tracked, updated daily
+- Median asking price near $59 — affordable direct-buy range
+- Names span playful, descriptive, and brandable styles
+- Compare length and topical fit before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
