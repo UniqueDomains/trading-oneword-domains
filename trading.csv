@@ -413,7 +413,7 @@ d9d2d5bc-677e-4c4c-9102-e2abcb633399,background.trading,available,19.99,,high,lo
 885293d1-3b2f-49b3-853e-07f3837100bd,come.trading,available,19.99,,high,low,4,name.com,,
 ca0bcaa4-fd00-4f04-b261-72391e2a522c,expose.trading,available,19.99,,high,low,6,name.com,,
 cdf690a5-5286-42c9-aaaa-dddb5e7d476a,letgo.trading,available,19.99,,high,low,6,name.com,,
-650a2706-67c8-433e-b306-2f5c47ab0b72,forest.trading,available,19.99,,medium,low,6,name.com,,
+650a2706-67c8-433e-b306-2f5c47ab0b72,forest.trading,available,19.99,19.99,medium,low,6,name.com,,
 8c27a149-0129-4642-aa23-8b23ff925bc6,pasta.trading,available,19.99,,high,low,5,name.com,,
 60999afd-b526-4b2f-b48a-3be164b0fd80,concise.trading,available,19.99,19.99,high,low,7,name.com,,
 b4c8ee8b-c8a3-4041-979c-f73b375d3cb1,smash.trading,available,19.99,,medium,low,5,name.com,,
