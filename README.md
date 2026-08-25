@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .trading one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,611 domains · **Median ask:** $41.78 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/trading`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| aid.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
-| bio.trading     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| eat.trading     | premium   | $500      | —             | high           | low    | 3      | name.com          |
-| atp.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
-| inc.trading     | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.   |
-| gas.trading     | premium   | $3,125    | —             | high           | low    | 3      | name.com          |
-| awe.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| dark.trading    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc       |
-| lp.trading      | premium   | $1,250    | —             | medium         | low    | 3      | name.com          |
-| ben.trading     | available | $19.99    | —             | high           | medium | 3      | name.com          |
-| token.trading   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.   |
-| tip.trading     | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
-| boo.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
-| techno.trading  | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.   |
-| asia.trading    | premium   | $1,250    | —             | high           | low    | 4      | name.com          |
-| bow.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| genesis.trading | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC - 20 |
-| bang.trading    | premium   | $250      | —             | high           | low    | 4      | name.com          |
-| bra.trading     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
-| bare.trading    | premium   | $250      | —             | medium         | low    | 4      | name.com          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| correct.trading   | available | $19.99    | $19.99        | high           | low    | 7      | name.com        |
+| tender.trading    | available | $19.99    | $19.99        | high           | low    | 6      | name.com        |
+| tenth.trading     | available | $19.99    | $19.99        | high           | low    | 5      | name.com        |
+| hotshot.trading   | available | $19.99    | $19.99        | high           | low    | 7      | name.com        |
+| overnight.trading | available | $19.99    | $19.99        | high           | low    | 9      | name.com        |
+| pity.trading      | available | $19.99    | $19.99        | high           | low    | 4      | name.com        |
+| warm.trading      | available | $19.99    | $19.99        | high           | low    | 4      | name.com        |
+| acute.trading     | available | $19.99    | $19.99        | high           | low    | 5      | name.com        |
+| easter.trading    | available | $19.99    | $19.99        | high           | low    | 6      | name.com        |
+| aid.trading       | available | $19.99    | —             | medium         | low    | 3      | name.com        |
+| bio.trading       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| eat.trading       | premium   | $500      | —             | high           | low    | 3      | name.com        |
+| atp.trading       | available | $19.99    | —             | medium         | low    | 3      | name.com        |
+| inc.trading       | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc. |
+| gas.trading       | premium   | $3,125    | —             | high           | low    | 3      | name.com        |
+| awe.trading       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| dark.trading      | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc     |
+| lp.trading        | premium   | $1,250    | —             | medium         | low    | 3      | name.com        |
+| ben.trading       | available | $19.99    | —             | high           | medium | 3      | name.com        |
+| token.trading     | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
