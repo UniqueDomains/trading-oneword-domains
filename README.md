@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .trading one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,106 domains · **Median ask:** $35.64 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/trading`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | awe.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | pay.trading     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
 | lp.trading      | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
-| ben.trading     | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| bar.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | token.trading   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.   |
+| tin.trading     | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| ben.trading     | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| search.trading  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 1  |
 | tip.trading     | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
 | boo.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | techno.trading  | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.   |
 | asia.trading    | premium   | $1,250    | —             | high           | low    | 4      | name.com          |
 | bra.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | genesis.trading | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 20 |
-| bang.trading    | premium   | $250      | —             | high           | low    | 4      | name.com          |
-| but.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| impulse.trading | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
