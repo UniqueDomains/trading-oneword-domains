@@ -1,10 +1,10 @@
-# Available .TRADING One-Word Domains (32,106)
+# Available .TRADING One-Word Domains (22,617)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C106%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C617%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .trading one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,106 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,617 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,106 domains · **Median ask:** $35.64 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,617 domains · **Median ask:** $43.77 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/trading`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| aid.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| bio.trading     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| aaa.trading     | premium   | $6,250    | —             | high           | medium | 3      | name.com          |
-| atp.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| inc.trading     | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.   |
-| eat.trading     | premium   | $500      | —             | high           | low    | 3      | name.com          |
-| awe.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| pay.trading     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| lp.trading      | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
-| bar.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| token.trading   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.   |
-| tin.trading     | premium   | $500      | —             | high           | low    | 3      | name.com          |
-| ben.trading     | available | $19.99    | —             | high           | medium | 3      | name.com          |
-| search.trading  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 1  |
-| tip.trading     | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
-| boo.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| techno.trading  | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.   |
-| asia.trading    | premium   | $1,250    | —             | high           | low    | 4      | name.com          |
-| bra.trading     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| genesis.trading | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 20 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| social.trading  | premium   | $3,250    | $3,250        | high           | medium | 6      | namecheap       |
+| fierce.trading  | available | $21.98    | $27.98        | high           | low    | 6      | namecheap       |
+| act.trading     | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| study.trading   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| any.trading     | premium   | $520      | $520          | high           | medium | 3      | namecheap       |
+| bar.trading     | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| network.trading | resell    | —         | —             | high           | medium | 7      | Dynadot Inc     |
+| gas.trading     | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap       |
+| bmr.trading     | available | $21.98    | $27.98        | high           | low    | 3      | namecheap       |
+| city.trading    | premium   | $1,250    | —             | high           | medium | 4      | name.com        |
+| bns.trading     | available | $21.98    | $27.98        | high           | low    | 3      | namecheap       |
+| mega.trading    | premium   | $500      | —             | high           | medium | 4      | name.com        |
+| cob.trading     | available | $21.98    | $27.98        | high           | low    | 3      | namecheap       |
+| rand.trading    | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap       |
+| fad.trading     | available | $21.98    | $27.98        | high           | low    | 3      | namecheap       |
+| safe.trading    | premium   | $1,250    | —             | high           | medium | 4      | name.com        |
+| fee.trading     | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| wall.trading    | premium   | $520      | $520          | high           | low    | 4      | namecheap       |
+| hex.trading     | available | $19.99    | $19.99        | high           | medium | 3      | name.com        |
+| cards.trading   | premium   | $1,300    | $1,300        | high           | low    | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,106 live domains                        |
+| 1,000-row public sample | 22,617 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADING One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
